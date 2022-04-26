@@ -1,6 +1,6 @@
 ### Hi, I'm Isabella 💫
 
-I'm a software engineer from a beach town called Jupiter, FL 🪐
+I'm a software engineer from Jupiter, FL 🪐
 
 
 - I write backend code in Java at [American Express](https://www.americanexpress.com/) on the checking and deposits team
